@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">evaluacionLabMovilesSM16</string>
+    <string name="btnNuevoEstudiante">NUEVO ESTUDIANTE</string>
+    <string name="btnLstEstudiantes">LISTA ESTUDIANTES</string>
+    <string name="btnMisDatos">MIS DATOS</string>
+    <string name="txtNombre">Nombre:</string>
+    <string name="txtCodigo">Codigo:</string>
+    <string name="txtMateria">Materia:</string>
+    <string name="txtP1">Primer Parcial: 30%</string>
+    <string name="txtP2">Segundo Parcial: 30%</string>
+    <string name="txtP3">Tercer Parcial: 40%</string>
+    <string name="txtGuardar">GUARDAR</string>
+    <string name="lstEs">LISTA DE ESTUDIANTES</string>
+    <string name="miNombre">Nombre: \n Sandra Yamileth Sandoval Molina</string>
+    <string name="miCodigo">Codigo: \n SM16-I04-001</string>
+</resources>
